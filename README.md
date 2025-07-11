@@ -1,5 +1,5 @@
 # 💫 About Me:
-A third-year student passionate about technology, I have acquired proficiency in various programming<br>languages and applied my skills to develop projects in website development and machine learning. My<br>problem-solving abilities and interest in learning new technologies have helped me in academic pursuits and<br>extracurricular projects.
+As a student passionate about technology, I have acquired proficiency in various programming<br>languages and applied my skills to develop projects in website development and machine learning. My<br>problem-solving abilities and interest in learning new technologies have helped me in academic pursuits and<br>extracurricular projects.
 
 
 ## 🌐 Socials:
