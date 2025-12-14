@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a student passionate about technology, I have acquired proficiency in various programming<br>languages and applied my skills to develop projects in website development and machine learning. My<br>problem-solving abilities and interest in learning new technologies have helped me in academic pursuits and<br>extracurricular projects.
+Computer Science undergraduate who enjoys building real products from idea to execution. Experienced in developing full-stack and system-driven applications with a focus on speed, scalability, and clean design. Passionate about backend development, system architecture, and solving real-world problems through impactful software.
 
 
 ## 🌐 Socials:
